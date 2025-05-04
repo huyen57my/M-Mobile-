@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phương trình bậc 1</string>
+    <string name="title_app">Phương trình bậc 1</string>
+    <string name="title_coefficient_a">Hệ số a:</string>
+    <string name="title_coefficient_b">Hệ số b:</string>
+    <string name="title_solution">Giải</string>
+    <string name="title_next">Tiếp</string>
+    <string name="title_exit">Thoát</string>
+    <string name="title_result">Kết quả:</string>
+    <string name="title_infinity">Vô số nghiệm!</string>
+    <string name="title_no_solution">Vô nghiệm!</string>
+    <string name="title_change_language">Thay đổi ngôn ngữ</string>
+    <string name="title_select_language">Chọn ngôn ngữ</string>
+    <string name="title_confirm_language_change">Xác nhận thay đổi ngôn ngữ</string>
+    <string name="title_confirm_language_change_message">Bạn có chắc chắn muốn thay đổi ngôn ngữ sang %1$s không?</string>
+</resources>

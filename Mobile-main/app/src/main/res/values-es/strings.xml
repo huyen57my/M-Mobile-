@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ecuación de primer grado</string>
+    <string name="title_app">Ecuación de primer grado</string>
+    <string name="title_coefficient_a">Coeficiente a:</string>
+    <string name="title_coefficient_b">Coeficiente b:</string>
+    <string name="title_solution">Premio</string>
+    <string name="title_next">Próximo</string>
+    <string name="title_exit">Salida</string>
+    <string name="title_result">Resultado:</string>
+    <string name="title_infinity">Innumerables soluciones!</string>
+    <string name="title_no_solution">Inexperto!</string>
+    <string name="title_change_language">Cambiar idioma</string>
+    <string name="title_select_language">Seleccionar idioma</string>
+    <string name="title_confirm_language_change">Confirmar cambio de idioma</string>
+    <string name="title_confirm_language_change_message">¿Está seguro de que desea cambiar el idioma a %1$s?</string>
+</resources>
